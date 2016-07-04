@@ -3,7 +3,7 @@ package s_0000_java_io;
 import java.util.Scanner;
 
 /**
- * Created by £ukasz on 2015-09-17.
+ * Created by ï¿½ukasz on 2015-09-17.
  */
 public class Nieokreslona_Liczba_Testow
 {
