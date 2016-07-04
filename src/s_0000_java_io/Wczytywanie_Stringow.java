@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 
 /**
- * Created by �ukasz on 2015-11-09.
+ * Created by Łukasz on 2015-11-09.
  */
 public class Wczytywanie_Stringow
 {

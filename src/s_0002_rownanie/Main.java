@@ -4,8 +4,8 @@ import java.io.*;
 import java.util.Scanner;
 
 /**
- * Created by �ukasz on 2015-11-16.
- *
+ * Created by Łukasz on 2015-11-16.
+ * <p>
  * http://pl.spoj.com/problems/ROWNANIE/
  */
 public class Main
@@ -22,7 +22,7 @@ public class Main
             double b = scanner.nextDouble();
             double c = scanner.nextDouble();
 
-            double delta = b*b - 4 * a * c;
+            double delta = b * b - 4 * a * c;
             if (delta > 0.0)
                 System.out.println("2");
             else if (delta < 0.0)
