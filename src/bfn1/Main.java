@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by �ukasz on 2015-09-17.
+ * Created by Łukasz on 2015-09-17.
  * http://pl.spoj.com/problems/BFN1/
  */
 public class Main
