@@ -22,6 +22,8 @@ public class Main
             String line = in.readLine().trim();
 
             getPalindrom(line, n, suma);
+
+            numberOfTest--;
         }
     }
 
