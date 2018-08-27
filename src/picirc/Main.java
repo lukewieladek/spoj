@@ -15,6 +15,8 @@ public class Main
         int y = Integer.parseInt(tab[1]);
         int r = Integer.parseInt(tab[2]);
 
+        r = r * r;
+
         tab = in.readLine().trim().split("\\s+");
         int n = Integer.parseInt(tab[0]);
 
@@ -24,7 +26,7 @@ public class Main
             int a = Integer.parseInt(tab[0]);
             int b = Integer.parseInt(tab[1]);
 
-            int promien = (int) Math.sqrt((x - a) * (x - a) + (y - b) * ( y - b));
+            double promien = (x - a) * (x - a) + (y - b) * ( y - b);
 
             if (promien == r)
                 System.out.println("E");
