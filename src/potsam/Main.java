@@ -15,6 +15,6 @@ public class Main {
 		d = sc.nextInt();
 		System.out.println(a * b + c * d);
 		sc.close();
-		
+
 	}
 }
