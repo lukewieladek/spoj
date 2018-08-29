@@ -1,4 +1,4 @@
-package pp0602b;
+package pp0602d;
 
 public class Main {
 }
