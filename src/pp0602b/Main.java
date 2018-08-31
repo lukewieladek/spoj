@@ -1,5 +1,9 @@
 package pp0602b;
 
+/**
+ * https://pl.spoj.com/problems/PP0602B/
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

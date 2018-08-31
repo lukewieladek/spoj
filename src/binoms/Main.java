@@ -1,5 +1,9 @@
 package binoms;
 
+/**
+ * https://pl.spoj.com/problems/BINOMS/
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
