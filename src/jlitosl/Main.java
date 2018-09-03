@@ -1,5 +1,9 @@
 package jlitosl;
 
+/**
+ * https://pl.spoj.com/problems/JLITOSL/
+ */
+
 import java.io.*;
 
 public class Main {
